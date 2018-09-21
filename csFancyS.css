@@ -1,0 +1,30 @@
+body{
+    background-color: #09F;
+    text-align: center;
+}
+
+
+h1{
+    color : white;
+    text-align: center;
+    font-family: Lucida;
+    font-weight: bold;
+}
+
+h2{
+    color: #09F;
+    font-family: Courier;
+    font-weight: bold;
+}
+
+h3{
+    color : white;
+    font-family: Courier;
+    font-weight: bold;
+}
+
+h4{
+    color : white;
+    font-family: Courier;
+    font-weight: bold;
+}

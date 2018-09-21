@@ -14,7 +14,7 @@ function freakingRead(pathOfFileToReadFrom){
 function startPlaylistin(event){
     
     
-    
+    document.getElementById("playlistSpot").innerHTML = "";
     var name = document.getElementById("nameForm").value;
     document.getElementById("peepsName").innerHTML = name;
     
